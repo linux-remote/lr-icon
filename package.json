@@ -1,0 +1,18 @@
+{
+  "name": "lr-icon",
+  "version": "1.0.0",
+  "author": {
+    "name": "Du Wei",
+    "email": "hezedu@hotmail.com"
+  },
+  "description": "Some Static icons of linux-remote-client.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:linux-remote/lr-icon.git"
+  },
+  "license": "LGPL-2.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
