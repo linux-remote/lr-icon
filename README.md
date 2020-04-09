@@ -1,5 +1,5 @@
 # lr-icon
-Some Static icons of linux-remote-client.
+Some Static icons of @linux-remote/client.
 
 # LICENSE
 All in the ./icons's icon download from ___open_icon_library-standard-0.11___: 
