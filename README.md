@@ -10,8 +10,12 @@ https://sourceforge.net/projects/openiconlibrary/files/0.11/
 
 
 - `nuvola/` [Nuvola_icons](https://commons.wikimedia.org/wiki/Category:Nuvola_icons) [LGPL-2.1](COPYING_nuvola)
+
+## pubish
+`npm run p`
 ## LICENSE
 [LGPL-2.1](LICENSE)
 <!--
 - `oxygen/` [Oxygen_icons](https://commons.wikimedia.org/wiki/Category:Oxygen_icons) [LGPL](COPYING_oxygen)
 - `tango/` [Tango_icons](https://commons.wikimedia.org/wiki/Tango_icons) [PD](COPYING_tango) -->
+

@@ -1,6 +1,6 @@
 {
   "name": "@linux-remote/open-icon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "Du Wei",
     "email": "hezedu@hotmail.com"
@@ -13,6 +13,7 @@
   },
   "license": "LGPL-2.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p": "npm publish --access public"
   }
 }
